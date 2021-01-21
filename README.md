@@ -4,6 +4,7 @@ For this project we will be using the University of California, Irvine Adult Dat
 
 This project involves data cleaning, feature engineering, exploratory data analysis and a prediction task involving log regression.
 
+Variables Included:
 age: continuous.
 
 workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
